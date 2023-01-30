@@ -5,6 +5,12 @@ Programación Web Full Stack </h1>
 
 <p>Enlace a trello <a href="https://trello.com/b/BKjUn9BH/sprint-1">Link Trello</a></p>
 
+<h3>Paginas usadas como referencia</h3>
+<ul>
+<li><p><a href="https://www.tematika.com/">https://www.tematika.com/</a></p></li>
+<li><p><a href="https://www.amazon.com/-/es/Tienda-Kindle/b?ie=UTF8&node=133140011">Amazon</a></p></li>
+</ul>
+
 <h3>Coffe & Books:<h3>
    <p>Una tienda de libros dirigida a lectores con ganas de conocer nuevos libros llenos de diferentes emociones. Romance, terror, misterio; Estos son unos de los pocos géneros que se pueden encontrar en nuestra tienda</p> 
 
