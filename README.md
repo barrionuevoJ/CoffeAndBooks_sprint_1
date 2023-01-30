@@ -19,4 +19,4 @@ Programación Web Full Stack </h1>
 <li>Valentino De’ll – - Esbirro 4</li>
 <li>Roca - Esbirro 5 </li>
 
-<p>Nota: Sí cualquier miembro del Staff es agredido por usted, por favor sepa que será permanentemente baneado 🙂</p>
+<p>Nota: Sí cualquier miembro del Staff es agredido por usted, por favor sepa que será permanentemente baneado🙂</p>
