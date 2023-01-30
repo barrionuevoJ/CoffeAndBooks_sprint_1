@@ -16,7 +16,7 @@ Programación Web Full Stack </h1>
 <li>Bustamante Tomas Ezequiel - Esbirro 1</li>
 <li>Lopez Naiara Abril - Esbirro 2</li>
 <li>Kiara -Esbirro 3</li>
-<li>Valentino De’ll – - Esbirro 4</li>
+<li>Valentino Dell'olio – - Esbirro 4</li>
 <li>Roca - Esbirro 5 </li>
 
 <p>Nota: Sí cualquier miembro del Staff es agredido por usted, por favor sepa que será permanentemente baneado🙂</p>
