@@ -7,8 +7,10 @@ Programación Web Full Stack </h1>
 
 <h3>Paginas usadas como referencia</h3>
 <ul>
-<li><p><a href="https://www.tematika.com/">https://www.tematika.com/</a></p></li>
-<li><p><a href="https://www.amazon.com/-/es/Tienda-Kindle/b?ie=UTF8&node=133140011">Amazon</a></p></li>
+<li><p><a href="https://www.mrbooks.com/">https://www.mrbooks.com/</a></p></li>
+<li><p><a href="https://www.casadellibro.com/">https://www.casadellibro.com/</a></p></li>
+<li><p><a href="https://www.planetadelibros.com.ar/">https://www.planetadelibros.com.ar/</a></p></li>
+<li><p><a href="https://booknet.com/es">https://booknet.com/es</a></p></li>
 </ul>
 
 <h3>Coffe & Books:<h3>
