@@ -4,7 +4,7 @@ Programación Web Full Stack </h1>
 <h3>Tematica:</h3> 
 <p>Ecommerce de libros.</p>
 
-<p>Enlace a trello <a>https://trello.com/b/BKjUn9BH/sprint-1</a></p>
+<p>Enlace a trello <a href="https://trello.com/b/BKjUn9BH/sprint-1">Link Trello</a></p>
 
 <h3>Coffe & Books:<h3>
    <p>Una tienda de libros dirigida a lectores con ganas de conocer nuevos libros llenos de diferentes emociones. Romance, terror, misterio; Estos son unos de los pocos géneros que se pueden encontrar en nuestra tienda</p> 
