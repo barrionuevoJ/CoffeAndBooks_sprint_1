@@ -26,4 +26,4 @@ Programación Web Full Stack </h1>
 <li>Valentino Dell'olio – - Integrante 4</li>
 <li>Roca - Integrante 5 </li> 
 
-<p>Nota: Sí cualquier miembro del Staff es agredido por usted, por favor sepa que será permanentemente baneado🙂</p>
+<p>Nota: Sí cualquier miembro del Staff es agredido por usted, por favor sepa que será permanentemente baneado🙂 👍</p>
