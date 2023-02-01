@@ -20,10 +20,10 @@ Programación Web Full Stack </h1>
  <p>Nuestro staff está compuesto de estas bonitas personas:</p> 
 <ul></ul>
 <li>Julian Barrionuevo - Líder</li>
-<li>Bustamante Tomas Ezequiel - Integrante 1</li>
-<li>Lopez Naiara Abril - Integrante 2</li>
-<li>Kiara -Integrante 3</li>
-<li>Valentino Dell'olio – - Integrante 4</li>
-<li>Roca - Integrante 5 </li> 
+<li>Bustamante Tomas Ezequiel - Diseño/Programador</li>
+<li>Lopez Naiara Abril - Lider de Diseño/Programador</li>
+<li>Kiara - Diseñadora/Programadora</li>
+<li>Valentino Dell'olio - Co-lider</li>
+<li>Rodrigo - Integrante 5</li> 
 
 <p>Nota: Sí cualquier miembro del Staff es agredido por usted, por favor sepa que será permanentemente baneado🙂 👍</p>
